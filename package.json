@@ -2,7 +2,8 @@
   "name": "bootstrapxl",
   "version": "1.0.3",
   "description": "CSS file with Bootstrap grid classes for screens bigger than 1600px",
-  "main": "index.js",
+  "main": "BootstrapXL.css",
+  "style": "BootstrapXL.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
